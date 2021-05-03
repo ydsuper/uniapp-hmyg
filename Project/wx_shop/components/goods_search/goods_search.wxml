@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['clickJumpSearch',['$event']]]]]}}" class="search-box" style="{{'background-color:'+(bgcolor)+';'}}" bindtap="__e"><view class="search-btn" style="{{'border-radius:'+(radius+'rpx')+';'}}"><uni-icons vue-id="48db8062-1" type="search" size="17" bind:__l="__l"></uni-icons><text>搜索</text></view></view>

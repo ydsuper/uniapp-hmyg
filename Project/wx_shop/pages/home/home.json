@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "goods_search": "/components/goods_search/goods_search"
+  }
+}
